@@ -1,1 +1,1 @@
-#this gives info about project
+# This gives info about project
